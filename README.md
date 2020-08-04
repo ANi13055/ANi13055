@@ -26,8 +26,8 @@ const aboutMe = {
 ```
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhan-Aniket&layout=compact)](https://github.com/Chauhan-Aniket/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANi13055&layout=compact)](https://github.com/Ani13055/github-readme-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Chauhan-Aniket&show_icons=true)](https://github.com/Chauhan-Aniket/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Ani13055&show_icons=true)](https://github.com/Ani13055/github-readme-stats)
 > I got this stats card from [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
